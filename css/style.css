@@ -1,0 +1,15 @@
+.content{
+	border:5px solid gray;
+	border-radius:2vh;
+	height:80vh;
+	width:100%;
+}
+.content img{
+	width:100%;
+	height:auto;
+}
+#col_left, #col_right{
+	width:100%;
+	height:auto;
+	border:1px dotted gray;
+}
